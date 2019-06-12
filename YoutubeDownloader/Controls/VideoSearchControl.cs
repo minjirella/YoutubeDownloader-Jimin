@@ -27,6 +27,7 @@ namespace YoutubeDownloader.Controls
                 video.Title = item.Title;
                 video.Author = item.Author;
                 video.Url = item.Url;
+                video.Duration = item.Duration;
                 byte[] imageBytes = new WebClient().DownloadData(item.Thumbnail);
 
                 using(MemoryStream ms = new MemoryStream(imageBytes))
@@ -36,6 +37,7 @@ namespace YoutubeDownloader.Controls
                 list.Add(video);
             }
             bdsVideo.DataSource = list;
+            
         }
 
         internal void ClearText()

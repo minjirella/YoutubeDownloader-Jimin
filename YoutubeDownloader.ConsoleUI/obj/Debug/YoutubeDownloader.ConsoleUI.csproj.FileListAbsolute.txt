@@ -23,3 +23,10 @@ D:\YoutubeDownloader\YoutubeDownloader.ConsoleUI\obj\Debug\YoutubeDownloader.Con
 D:\YoutubeDownloader\YoutubeDownloader.ConsoleUI\obj\Debug\YoutubeDownloader.ConsoleUI.exe
 D:\YoutubeDownloader\YoutubeDownloader.ConsoleUI\obj\Debug\YoutubeDownloader.ConsoleUI.pdb
 D:\YoutubeDownloader\YoutubeDownloader.ConsoleUI\bin\Debug\YoutubeSearch.dll
+D:\YoutubeDownloader\YoutubeDownloader.ConsoleUI\bin\Debug\libvideo.dll
+D:\YoutubeDownloader\YoutubeDownloader.ConsoleUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\YoutubeDownloader\YoutubeDownloader.ConsoleUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\YoutubeDownloader\YoutubeDownloader.ConsoleUI\bin\Debug\AngleSharp.dll
+D:\YoutubeDownloader\YoutubeDownloader.ConsoleUI\bin\Debug\YoutubeExplode.dll
+D:\YoutubeDownloader\YoutubeDownloader.ConsoleUI\bin\Debug\AngleSharp.xml
+D:\YoutubeDownloader\YoutubeDownloader.ConsoleUI\bin\Debug\YoutubeExplode.xml

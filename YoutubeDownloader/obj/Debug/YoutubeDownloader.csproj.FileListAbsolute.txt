@@ -27,3 +27,12 @@ D:\YoutubeDownloader\YoutubeDownloader\bin\Debug\Google.Apis.YouTube.v3.xml
 D:\YoutubeDownloader\YoutubeDownloader\bin\Debug\Newtonsoft.Json.xml
 D:\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.csproj.CopyComplete
 D:\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeSearch.dll
+D:\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.Controls.LinkDownloadControl.resources
+D:\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.Controls.VideoListControl.resources
+D:\YoutubeDownloader\YoutubeDownloader\bin\Debug\libvideo.dll
+D:\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\YoutubeDownloader\YoutubeDownloader\bin\Debug\AngleSharp.dll
+D:\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeExplode.dll
+D:\YoutubeDownloader\YoutubeDownloader\bin\Debug\AngleSharp.xml
+D:\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeExplode.xml

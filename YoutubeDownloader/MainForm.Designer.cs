@@ -35,6 +35,7 @@
             this.closeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.helpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.infoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.uscLinkDownload = new YoutubeDownloader.Controls.LinkDownloadControl();
             this.uscVideoSearch = new YoutubeDownloader.Controls.VideoSearchControl();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -93,13 +94,22 @@
             this.infoToolStripMenuItem.Size = new System.Drawing.Size(95, 22);
             this.infoToolStripMenuItem.Text = "&Info";
             // 
+            // uscLinkDownload
+            // 
+            this.uscLinkDownload.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.uscLinkDownload.Location = new System.Drawing.Point(0, 448);
+            this.uscLinkDownload.Name = "uscLinkDownload";
+            this.uscLinkDownload.Size = new System.Drawing.Size(743, 75);
+            this.uscLinkDownload.TabIndex = 2;
+            // 
             // uscVideoSearch
             // 
-            this.uscVideoSearch.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.uscVideoSearch.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.uscVideoSearch.Location = new System.Drawing.Point(0, 24);
             this.uscVideoSearch.Name = "uscVideoSearch";
             this.uscVideoSearch.Padding = new System.Windows.Forms.Padding(5);
-            this.uscVideoSearch.Size = new System.Drawing.Size(743, 499);
+            this.uscVideoSearch.Size = new System.Drawing.Size(743, 427);
             this.uscVideoSearch.TabIndex = 1;
             // 
             // MainForm
@@ -107,6 +117,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(743, 523);
+            this.Controls.Add(this.uscLinkDownload);
             this.Controls.Add(this.uscVideoSearch);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
@@ -129,6 +140,7 @@
         private System.Windows.Forms.ToolStripMenuItem helpToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem infoToolStripMenuItem;
         private Controls.VideoSearchControl uscVideoSearch;
+        private Controls.LinkDownloadControl uscLinkDownload;
     }
 }
 
